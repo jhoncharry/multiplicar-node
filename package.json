@@ -12,5 +12,13 @@
     "colors": "^1.4.0",
     "yargs": "^16.0.3"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoncharry/multiplicar-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhoncharry/multiplicar-node/issues"
+  },
+  "homepage": "https://github.com/jhoncharry/multiplicar-node#readme"
 }
